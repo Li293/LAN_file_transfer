@@ -1,4 +1,4 @@
-# LAN_file_transfer 局域网文件传输
+# LAN_File_Transfer 局域网文件传输
 
 # 准备工作
 ```python
